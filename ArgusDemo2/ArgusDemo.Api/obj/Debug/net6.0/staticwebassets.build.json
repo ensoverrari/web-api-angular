@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uLS+IY3y4bZHdRy+kdKAl61UEV0pqKy4yg8ujvNRMmo=",
+  "Source": "ArgusDemo.Api",
+  "BasePath": "_content/ArgusDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
